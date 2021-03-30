@@ -138,14 +138,8 @@ header nav {
 #geschichte{
   background:#f5f5f5;
 }
-#geschichte h2{
-  padding-top: 35px;
-}
-#geschichte a{
-  text-transform: none;
-}
-#geschichte a:hover{
-  margin-left: 42px
+#geschichte img:hover {
+  transform: scale(1.1);
 }
 /*politik**********************************************/
 #politik iframe{
