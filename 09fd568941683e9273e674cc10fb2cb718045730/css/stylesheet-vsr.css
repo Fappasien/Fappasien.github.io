@@ -138,7 +138,24 @@ header nav {
 #geschichte{
   background:#f5f5f5;
 }
+
+
 /*politik**********************************************/
 #politik iframe{
   margin-top: 39px;
+}
+
+
+/*föderationsobjekte**********************************************/
+#föderationsobjekte ul li {
+float: left;
+margin-top: 43px;
+width: 33.3%;
+}
+#föderationsobjekte img {
+  width: 280px;
+  height: 250px;
+}
+#föderationsobjekte ul img:hover {
+  transform: scale(1.1);
 }
