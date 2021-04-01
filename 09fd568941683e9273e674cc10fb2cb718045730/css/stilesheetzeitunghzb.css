@@ -136,3 +136,6 @@ header nav {
   font-weight: 400;
   font-size: 24px;
 }
+#aktuellste_zeitung iframe{
+  margin-bottom: 20px;
+}
