@@ -139,3 +139,8 @@ header nav {
 #aktuellste_zeitung iframe{
   margin-bottom: 20px;
 }
+
+/*footer*************/
+footer {
+  background: #d4d4d4
+}
