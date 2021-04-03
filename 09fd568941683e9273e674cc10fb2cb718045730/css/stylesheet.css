@@ -156,12 +156,9 @@ width: 33.3%;
 #newspaper img {
   width: 280px;
   height: 170px;
-  border-radius: 5px;
-  border: 1px solid #d4d4d4;
 }
 #newspaper ul img:hover {
   transform: scale(1.1);
-  box-shadow: 0px 2px rgb(0 0 0 / 0.2);
 }
 /*FOOTER**********************************************/
 footer {
