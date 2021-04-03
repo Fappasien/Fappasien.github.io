@@ -48,6 +48,11 @@ hr {
   border: 20px;
   margin:0 auto 40px auto;
 }
+/*Abaout********/
+#about img{
+  width: 50;
+  height: 581px;
+}
 
 /*HEADER**********************************************/
 #logo, li,#laender ul img,#newspaper ul img, img {transition: all 500ms}
