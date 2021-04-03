@@ -48,7 +48,11 @@ hr {
   border: 20px;
   margin:0 auto 40px auto;
 }
-
+/*Abaout********/
+#about img{
+  width: 50;
+  height: 581px;
+}
 /*HEADER**********************************************/
 #logo, li,#laender ul img,#newspaper ul img, img {transition: all 500ms}
 
@@ -99,7 +103,7 @@ header nav {
 }
 
 #anfang h1 {
-  margin-top:  128px;
+  margin-top:  178px;
   font-family: "Train One", sans-serif;
   color: black;
 }
@@ -109,6 +113,7 @@ header nav {
   color: black;
 }
 /*About****/
+
 /***aktuellste_zeitung***/
 #aktuellste_zeitung{
   background:#f5f5f5;
