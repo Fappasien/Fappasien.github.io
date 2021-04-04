@@ -113,6 +113,9 @@ header nav {
 #aktuellste_zeitung{
   background:#f5f5f5;
 }
+#aktuellste_zeitung p{
+  font-size: 10px;
+}
 /**Liste aller Zeitungen**/
 #zeitungen table th,#zeitungen table td {
   border: 1px solid gainsboro;
@@ -138,4 +141,8 @@ header nav {
 }
 #aktuellste_zeitung iframe{
   margin-bottom: 20px;
+}
+/*****+FOOOTER******/
+footer p{
+  font-size: 10px;
 }
