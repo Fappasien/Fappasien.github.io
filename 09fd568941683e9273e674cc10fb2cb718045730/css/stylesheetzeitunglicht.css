@@ -92,7 +92,7 @@ header nav {
 }
 /*Start**********************************************/
 #anfang {
-  background: url(../lichtzeitungen/images/ptsskyline.png);
+  background: url(../lichtviedeos/images/ptsskyline.png);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -110,10 +110,10 @@ header nav {
 }
 /*About****/
 /***aktuellstes_video***/
-#aktuellstes_video{
+#aktuellstes_zeitung{
   background:#f5f5f5;
 }
-#aktuellstes_video p{
+#aktuellstes_zeitung p{
   font-size: 10px;
 }
 /**Liste aller videos**/
@@ -139,29 +139,29 @@ header nav {
   font-weight: 400;
   font-size: 24px;
 }
-#aktuellstes_video iframe{
+#aktuellstes_zeitung iframe{
   margin-bottom: 20px;
   background:#f5f5f5;
 }
 
-#zeitungen table th,#zeitungen table td {
+#viedeos table th,#viedeos table td {
   border: 1px solid gainsboro;
 }
 
-#zeitungen table{
+#viedeos table{
   border-collapse: collapse;
   text-align: center;
   width:80%;
   margin:10px auto;
 }
-#zeitungen table th{
+#viedeos table th{
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   color: #4f4f4f;;
   margin: 10px;
   font-size: 30px;
 }
-#zeitungen table td{
+#viedeos table td{
   font-family: 'Roboto Slab', sans-serif;
   font-weight: 400;
   font-size: 24px;
