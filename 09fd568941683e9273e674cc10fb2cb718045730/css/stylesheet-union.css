@@ -30,7 +30,7 @@ h1, h2, a{
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   color: #4f4f4f;
-  text-transform: uppercase;
+  text-transform:  none;
   margin: 10px;
   font-size: 30px;
 }
