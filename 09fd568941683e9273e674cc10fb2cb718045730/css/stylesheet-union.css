@@ -32,6 +32,7 @@ h1, h2, a{
   color: #4f4f4f;
   text-transform: uppercase;
   margin: 10px;
+  font-size: 30px;
 }
 h3{
   font-family: 'Roboto', sans-serif;
@@ -48,10 +49,6 @@ h2 {
   color:#4d574b;
   font-size: 36px;
 }
-h3{
-  font-size: 30px;
-}
-
 hr {
   width: 82px;
   height: 3px;
