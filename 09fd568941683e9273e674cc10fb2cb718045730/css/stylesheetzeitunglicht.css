@@ -116,25 +116,25 @@ header nav {
 #aktuellstes_zeitung p{
   font-size: 10px;
 }
-/**Liste aller videos**/
-#videos table th,#videos table td {
+/**Liste aller zeitungen**/
+#viedeos table th,#viedeos table td {
   border: 1px solid gainsboro;
 }
 
-#videos table{
+#viedeos table{
   border-collapse: collapse;
   text-align: center;
   width:80%;
   margin:10px auto;
 }
-#videos table th{
+#viedeos table th{
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   color: #4f4f4f;;
   margin: 10px;
   font-size: 30px;
 }
-#videos table td{
+#viedeos table td{
   font-family: 'Roboto Slab', sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -168,6 +168,56 @@ header nav {
   background:#f5f5f5;
 }
 #zeitungen{
+  background:#f5f5f5;
+}
+#zeitungen table th,#zeitungen table td {
+  border: 1px solid gainsboro;
+}
+
+#zeitungen table{
+  border-collapse: collapse;
+  text-align: center;
+  width:80%;
+  margin:10px auto;
+}
+#zeitungen table th{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #4f4f4f;;
+  margin: 10px;
+  font-size: 30px;
+}
+#zeitungen table td{
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+}
+#aktuellstes_zeitung iframe{
+  margin-bottom: 20px;
+  background:#f5f5f5;
+}
+
+#zeitungen table th,#zeitungen table td {
+  border: 1px solid gainsboro;
+}
+
+#zeitungen table{
+  border-collapse: collapse;
+  text-align: center;
+  width:80%;
+  margin:10px auto;
+}
+#zeitungen table th{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #4f4f4f;;
+  margin: 10px;
+  font-size: 30px;
+}
+#vzeitungen table td{
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
   background:#f5f5f5;
 }
 /*****+FOOOTER******/
