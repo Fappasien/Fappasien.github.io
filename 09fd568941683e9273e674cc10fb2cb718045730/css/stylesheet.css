@@ -160,6 +160,16 @@ width: 33.3%;
 #newspaper ul img:hover {
   transform: scale(1.1);
 }
+
+/*Wikilex*********************************************/
+
+#wikilex {
+  background:#f5f5f5;
+}
+#wikilex img:hover {
+  transform: scale(1.1);
+}
+
 /*FOOTER**********************************************/
 footer {
   background: #d4d4d4
